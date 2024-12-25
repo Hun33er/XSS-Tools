@@ -1,8 +1,3 @@
-# XSS-Tools
-Here is a detailed `README.md` file for your XSS testing tool on GitHub:
-
----
-
 # XSS Vulnerability Testing Tool
 
 ## Overview
